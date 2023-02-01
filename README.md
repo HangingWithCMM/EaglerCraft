@@ -1,5 +1,7 @@
 I will be updating this repo
 
+If you want a client to be added make a new issue 
+
 If you don't want to download the clients goto: https://hangwithcmm.github.io/EaglerCraft/CLIENT-HERE
 
 Additional Clients:
