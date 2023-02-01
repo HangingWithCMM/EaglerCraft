@@ -8,6 +8,6 @@ Additional Clients:
 
 Deadfish: https://deadfish.cmm7590.repl.co
 
-C.M.M.'s Fuchsia X: https://cmmfx.netlify.app/
+C.M.M.'s Fuchsia X: https://cmmfx.netlify.app/ & https://cmms-fuchsia-x-client-alt.on.drv.tw/C.M.M's%20Fuchsia%20X/
 
-PRE C.M.M.'s Fuchsia X: https://cmmfx.netlify.app/pre
+PRE C.M.M.'s Fuchsia X: https://cmmfx.netlify.app/pre & https://cmms-fuchsia-x-client-alt.on.drv.tw/C.M.M's%20Fuchsia%20X/PRE.html
