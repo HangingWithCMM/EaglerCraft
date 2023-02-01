@@ -1,6 +1,6 @@
 I will be updating this repo
 
-If you don't want to download the clients goto: https://hangwithcmm.github.io/EaglerCraft/<CLIENT>
+If you don't want to download the clients goto: https://hangwithcmm.github.io/EaglerCraft/CLIENT-HERE
 
 Additional Clients:
 
